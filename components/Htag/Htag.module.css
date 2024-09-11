@@ -1,0 +1,19 @@
+.h1 {
+    font-width: 500;
+    font-size: 26px;
+    line-height: 35px;
+    margin: 0px;
+}
+.h2 {
+    font-width: 500;
+    font-size: 22px;
+    line-height: 30px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.h3 {
+    font-width: 500;
+    font-size: 20px;
+    line-height: 27px;
+    margin: 0px;
+}
